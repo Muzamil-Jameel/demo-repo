@@ -1,3 +1,5 @@
 # Demo
 
-Some Description!
+This is my first git repository.
+<br>
+Author - Muzamil jameel.
